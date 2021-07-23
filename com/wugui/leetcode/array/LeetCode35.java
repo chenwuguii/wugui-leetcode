@@ -1,4 +1,4 @@
-package wugui.leetcode;
+package wugui.leetcode.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
